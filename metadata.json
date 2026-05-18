@@ -1,0 +1,8 @@
+{
+  "name": "The Flying Biscuit Cafe",
+  "description": "Premium restaurant website for The Flying Biscuit Cafe in Athens, GA. Serving all-day Southern breakfast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
